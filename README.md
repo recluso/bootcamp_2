@@ -1,6 +1,7 @@
 # Bootcamp second class
 
-[https://docs.google.com/document/d/1P4omy8CxUsgmuXVjG22lnsrioMa0UkyD/edit?pli=1]
+[The class doc](https://docs.google.com/document/d/1P4omy8CxUsgmuXVjG22lnsrioMa0UkyD/edit?pli=1)
+
 
 ## 2.HTML & CSS
 
